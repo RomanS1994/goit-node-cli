@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Alice McCarthy",
+    "email": "alice.mccarthy@example.com",
+    "phone": "202-555-0110"
+  },
+  {
+    "id": "5",
+    "name": "Emilia Stone",
+    "email": "emilia.stone@example.com",
+    "phone": "202-555-0169"
+  },
+  {
+    "id": "6",
+    "name": "Farid Khan",
+    "email": "farid.khan@example.com",
+    "phone": "202-555-0180"
+  },
+  {
+    "id": "8",
+    "name": "Hugo Batista",
+    "email": "hugo.batista@example.com",
+    "phone": "202-555-0198"
+  },
+  {
+    "id": "9",
+    "name": "Ivanna Petrenko",
+    "email": "ivanna.petrenko@example.com",
+    "phone": "202-555-0107"
+  },
+  {
+    "id": "10",
+    "name": "James O'Connor",
+    "email": "james.oconnor@example.com",
+    "phone": "202-555-0133"
+  },
+  {
+    "id": "d2979a33-3f11-499e-8171-a609f18a5e5c",
+    "name": "Rangosda",
+    "email": "mango@gmail.cm",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "d91cffde-4b04-4c12-8beb-2de629d33a8f",
+    "name": "Rana",
+    "email": "mango@gmail.cm",
+    "phone": "322-22-22"
+  }
+]
